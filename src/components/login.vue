@@ -63,6 +63,8 @@
 </script>
 <style>
    #paper {
+     background:url("../assets/bc3.jpg") no-repeat;
+    background-position: top,center;
     height: 100%;
     width: 100%;
     background-size: cover;
